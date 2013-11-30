@@ -14,5 +14,6 @@ body {background-color: WhiteSmoke;}
 li {font-family: Helvetica;
     font-size: 20px;}
 ul.nav {display:inline;
+        font-family: Futura;
         margin: 10p auto;
         font-size: 30px;}
