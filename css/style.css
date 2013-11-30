@@ -24,5 +24,5 @@ ul.nav li a {font-family: Futura;
 header {background-color: WhiteSmoke;}
 a {text-decoration: none;
     color: black;}
-
+a:focus {color: black;}
 
