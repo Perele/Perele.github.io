@@ -11,13 +11,13 @@ h2 {color: black;
     text-transform: uppercase;}
 p {color: black;}
 body {text-align: center;
-    background-color: White;}
+    background-color: White;
+    margin: 0;}
 li {font-family: Helvetica;
     font-size: 20px;}
 ul.nav {text-align: center;
         font-family: Futura;
         padding-left: 0;
-        margin: 10 auto;
         font-size: 30px;}
 ul.nav li {display: inline;
           padding: 0 0.25em;
