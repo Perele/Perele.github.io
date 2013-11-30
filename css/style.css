@@ -16,12 +16,13 @@ body {text-align: center;
 li {font-family: Helvetica;
     font-size: 20px;}
 ul.nav {text-align: center;
-        font-family: Futura;
         padding-left: 0;
-        margin: 0 auto 0 auto;
-        font-size: 30px;}
+        margin: 0 auto 0 auto;}
 ul.nav li {display: inline;
           padding: 0 0.25em;}
+ul.nav li a {font-family: Futura;
+            font-size: 30px;}
+            
 header {background-color: WhiteSmoke;}
 a {text-decoration: none;}
 
