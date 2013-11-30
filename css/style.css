@@ -10,7 +10,8 @@ h2 {color: black;
     font-family: Futura;
     text-transform: uppercase;}
 p {color: black;}
-body {background-color: White;}
+body {text-align: center;
+    background-color: White;}
 li {font-family: Helvetica;
     font-size: 20px;}
 ul.nav {text-align: center;
@@ -22,4 +23,5 @@ ul.nav li {display: inline;
           padding-left: 0 0.25em;
           margin: 0 0 0.5em;
           text-decoration-line: none;}
-head {background-color: WhiteSmoke;}
+header {background-color: WhiteSmoke;}
+
