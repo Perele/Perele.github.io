@@ -2,7 +2,7 @@ h1 {color: black;
     font-family: Helvetica;
     font-size: 80px;
     text-transform: uppercase;
-    border: 10px black;
+    text-align: center;
     margin: 100px;
     padding: 5px;}
 h2 {font-size: 30px;
