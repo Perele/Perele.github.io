@@ -13,9 +13,10 @@ p {color: black;}
 body {background-color: WhiteSmoke;}
 li {font-family: Helvetica;
     font-size: 20px;}
-ul.nav {font-family: Futura;
+ul.nav {text-align: center;
+        font-family: Futura;
         margin: 10p auto;
         padding: 20p;
         font-size: 30px;}
-ul.nav li {display: inline-block;
-            display: inline;}
+ul.nav li {display: inline;
+          padding: 0 0,25em;}
