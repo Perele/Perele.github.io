@@ -14,5 +14,5 @@ body {background-color: silver;}
 li {display:inline;
     text-align: center;
     font-family: Helvetica;
-    font-size: 30px;
-    border: 5px solid black;}
+    font-size: 30px;}
+ul.nav {margin: 0 auto;}
