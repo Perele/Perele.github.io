@@ -15,6 +15,7 @@ li {font-family: Helvetica;
     font-size: 20px;}
 ul.nav {text-align: center;
         font-family: Futura;
+        padding-left: 0;
         margin: 10 auto;
         font-size: 30px;}
 ul.nav li {display: inline;
