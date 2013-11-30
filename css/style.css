@@ -11,8 +11,8 @@ h2 {color: black;
     text-transform: uppercase;}
 p {color: black;}
 body {background-color: WhiteSmoke;}
-li {display:inline;
-    text-align: center;
-    font-family: Helvetica;
-    font-size: 30px;}
-ul.nav {margin: 10p auto;}
+li {font-family: Helvetica;
+    font-size: 20px;}
+ul.nav {display:inline;
+        margin: 10p auto;
+        font-size: 30px;}
