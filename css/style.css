@@ -9,7 +9,9 @@ h2 {color: black;
     font-size: 30px;
     font-family: Futura;
     text-transform: uppercase;}
-p {color: black;}
+p {color: black;
+    font-family: Helvetica;
+    font-size: 14px;}
 body {text-align: center;
     background-color: White;
     margin: 0;}
