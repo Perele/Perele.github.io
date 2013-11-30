@@ -8,9 +8,9 @@ hello world
 ...we love cats
 
  
-Cats: 
+
 ![more kittens](http://placekitten.com/g/200/200). 
-[This is a link](http://www.nyan.cat/).
+[Nyan Cat](http://www.nyan.cat/).
 
 - 123
 - 456
