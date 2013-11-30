@@ -22,7 +22,7 @@ ul.nav {text-align: center;
         font-size: 30px;}
 ul.nav li {display: inline;
           padding: 0 0.25em;}
-ul.nav a {text-decoration: none;}
 header {background-color: WhiteSmoke;}
+a {text-decoration: none;}
 
 
