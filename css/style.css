@@ -21,8 +21,8 @@ ul.nav {text-align: center;
 ul.nav li {display: inline;
           padding: 0 0.25em;}
 ul.nav li a {font-family: Futura;
-            font-size: 30px;}
-            
+            font-size: 30px;
+            text-transform: uppercase;}
 header {background-color: WhiteSmoke;}
 a {text-decoration: none;}
 
