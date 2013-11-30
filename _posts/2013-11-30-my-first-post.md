@@ -1,6 +1,6 @@
 ---
 title: my first post
-layout: post
+layout: default
 ---
 hello world
 ## at github
@@ -9,8 +9,9 @@ hello world
 
  
 
-![more kittens](http://placekitten.com/g/200/200). 
-[Nyan Cat](http://www.nyan.cat/).
+![more kittens](http://placekitten.com/g/200/200) 
+
+[Nyan Cat](http://www.nyan.cat/)
 
 - 123
 - 456
