@@ -17,12 +17,11 @@ ul.nav {text-align: center;
         padding-left: 0;
         margin: 0 auto 0 auto;}
 ul.nav li {display: inline;
-          padding: 0 0.5em 0 0.5em;}
+          padding: 0 0.1em 0 0.1em;}
 ul.nav li a {font-family: Futura;
-            font-size: 25px;
+            font-size: 20px;
             text-transform: uppercase;}
 header {background-color: WhiteSmoke;}
 a {text-decoration: none;
     color: black;}
-a:focus {color: black;}
 
