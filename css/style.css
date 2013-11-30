@@ -13,7 +13,8 @@ p {color: black;}
 body {background-color: WhiteSmoke;}
 li {font-family: Helvetica;
     font-size: 20px;}
-ul.nav {font-family: Futura;
+ul.nav {display: inline-block;
+        font-family: Futura;
         margin: 10p auto;
         padding: 20p;
         font-size: 30px;}
