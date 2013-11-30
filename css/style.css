@@ -20,6 +20,6 @@ ul.nav {text-align: center;
         font-size: 30px;}
 ul.nav li {display: inline;
           padding-left: 0 0.25em;
-          margin: 0 0 0.25em;}
+          margin: 0 0 0.25em;
+          text-decoration: none}
 head {background-color: WhiteSmoke;}
-link {text-decoration: none}
