@@ -5,7 +5,8 @@ h1 {color: black;
     text-align: center;
     margin: 100px;
     padding: 5px;}
-h2 {font-size: 30px;
+h2 {color: solid red;
+    font-size: 30px;
     font-family: Futura;
     text-transform: uppercase;}
-p {color: skyblue;}
+p {color: black;}
