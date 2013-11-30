@@ -17,7 +17,7 @@ ul.nav {text-align: center;
         padding-left: 0;
         margin: 0 auto 0 auto;}
 ul.nav li {display: inline;
-          padding: 0 0.25em 0 0.25em;}
+          padding: 0 0.5em 0 0.5em;}
 ul.nav li a {font-family: Futura;
             font-size: 30px;
             text-transform: uppercase;}
