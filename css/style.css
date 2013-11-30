@@ -1,2 +1,4 @@
-h1 {color: hotpink;}
+h1 {color: hotpink;
+    font-size: 44px;
+    text-transform: uppercase;}
 p {color: skyblue;}
